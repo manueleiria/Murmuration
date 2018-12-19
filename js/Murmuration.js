@@ -1,8 +1,8 @@
-/*
+/* 
  * @author manueleiria
  * This project is heavily based on Mr. Doob's three.js
  * webgl_gpgpu_birds example, as well as Gene Kogan's
- * Processing 2 FlockingBoids model geometry.
+ * Processing 1.5 FlockingBoids model geometry.
  * Both can be found at:
  * https://github.com/mrdoob/three.js
  * https://github.com/genekogan/FlockingBoids
